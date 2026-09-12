@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Liza!
+👋 Hi, I’m Liza!
 
 I’m a backend engineer with 6+ years of production experience (mostly building distributed systems and microservices in **Go**). 
 
