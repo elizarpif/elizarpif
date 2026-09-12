@@ -1,7 +1,12 @@
-👋 Hi, I’m Liza!
+# 👋 Hi, I’m Liza!
 
-As a passionate backend developer with over five years of experience, I am always eager to learn and explore new technologies. My GitHub repository serves as an archive of my diverse projects. Here, you'll find everything from experimental and study-based projects to comprehensive guides on the tools I use.
+I’m a backend engineer with 6+ years of production experience (mostly building distributed systems and microservices in **Go**). 
 
-I particularly enjoy working with Go due to its simplicity!
+This GitHub profile is my personal playground, research sandbox, and archive. Most of what you’ll find here are pet projects, academic labs, and experiments rather than production code.
 
-📚 Currently, I'm pursuing a Master's degree in Computational Biomedical Engineering at the University of Pompeu Fabra, which also influences some of the projects you'll see here.
+### 🧪 What’s happening here lately:
+* **Python/Golang Experiments:** Hands-on experiments and pet projects beyond my main tech stack.
+* **Master’s Thesis @ UPF:** Research and modeling on EEG recordings of epileptic seizures (analyzing state-space vs. phase-based interdependence measures). 
+* **Study & Labs:** Practical coursework and prototypes from my CS and Computational Biomedical Engineering studies.
+* **Cryptographic Adventures:** Playing around with elliptic curves, secure data exchange, and security primitives.
+* _A lot of_ telegram bots for different purposes (now dead)😅
